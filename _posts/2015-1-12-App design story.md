@@ -3,7 +3,7 @@ layout:post
 title: App Design 101
 ---
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](http://www.alchemy50.com/wp-content/uploads/2013/06/wireframes.jpeg "Wireframe")
 
 **App Development-Draw it out!!**
 
