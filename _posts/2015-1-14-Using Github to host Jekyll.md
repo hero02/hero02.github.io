@@ -9,5 +9,5 @@ title: Using Github to host Jekyll
 ####Using Jekyll and hosting on Github
 Today I learned an alternative to wordpress and hosting. This new magical wonder is Github (for hosting) and Jekyll(replacment for worpress).  
 
-SN: [How i used markdown to style my content ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+SN: [Style Content with markdown ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
