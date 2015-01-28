@@ -11,4 +11,4 @@ I am a student at the AIU Art Institute currently finishing my BA. I am a web de
 ### Contact me
 
 [webdezinesco@gmai.com](mailto:webdezinesco@gmail.com)
-Follow me @ [Facebook.com/herodneydesigns](mailto:webdezinesco@gmail.com)
+Follow me @ http://Facebook.com/herodneydesigns
