@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: TUDU List web app
+permalink: /pf1_tudu/
+---
 
 ##TUDU List web app
 ---
