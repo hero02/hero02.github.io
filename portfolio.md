@@ -4,4 +4,12 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-##one
+##Admax Web Redesign
+
+##BasketballerSD blog(adwords)
+
+##Jerusalem Church Program
+
+##Tudu web app
+
+##
