@@ -14,6 +14,11 @@ permalink: /portfolio/
 
 ##Jerusalem Church Program
 
+![alt text](https://scontent-a-iad.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/1939653_1439983862905737_1209739354_n.jpg?oh=cd566605791d3a738d17ecda5bb5ed81&oe=5550EC69 "Jerusalem Program Cover")
+
+ [Read More...](https://hero02.github.io/pfi_jerusalemprogram)
+
+
 ##Tudu web app
 
 ![alt text](https://lh5.googleusercontent.com/-0CIb94NuMnY/VMk9QW-jSzI/AAAAAAAAAJQ/X1zWrelve-E/w567-h530-no/tudu%2Bweb%2Bapp.png "Tudu")
