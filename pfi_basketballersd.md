@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TUDU List web app
+title: BasketballerSD
 permalink: /pfi_basketballer/
 ---
 
