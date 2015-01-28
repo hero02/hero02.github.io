@@ -12,7 +12,8 @@ permalink: /portfolio/
 
 ##Tudu web app
 
-![alt text](https://drive.google.com/file/d/0B2PyqmJHfDHvWl9QbkFDNW9RUU0/view?usp=sharing "Tudu")
+![alt text](https://lh5.googleusercontent.com/-0CIb94NuMnY/VMk9QW-jSzI/AAAAAAAAAJQ/X1zWrelve-E/w567-h530-no/tudu%2Bweb%2Bapp.png "Tudu")
+ 
 
 
 ##
