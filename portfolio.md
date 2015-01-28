@@ -6,6 +6,10 @@ permalink: /portfolio/
 
 ##Admax Web Redesign
 
+![alt text](https://scontent-a-iad.xx.fbcdn.net/hphotos-xap1/t31.0-8/10504894_1489839624586827_5211827537433859606_o.jpg "admax home page mock up")
+
+[Read More...](https://hero02.github.io/pfi_admax)
+
 ##BasketballerSD blog(adwords)
 
 ![alt text](https://lh5.googleusercontent.com/-IUpmJZ0YQNc/VMlE1a-slgI/AAAAAAAAAKE/nd1--STygV4/w934-h379-no/basketballersd.png "Basketballer")
