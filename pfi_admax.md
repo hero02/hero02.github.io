@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TUDU List web app
+title: Admax Website Redesign Mockup
 permalink: /pfi_admax/
 ---
 
