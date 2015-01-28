@@ -7,7 +7,7 @@ permalink: /pfi_admax/
 
 ---
 
-![alt text](https://scontent-a-iad.xx.fbcdn.net/hphotos-xap1/t31.0-8/10504894_1489839624586827_5211827537433859606_o.jpg "jerusalem cover page 1")
+![alt text](https://scontent-a-iad.xx.fbcdn.net/hphotos-xap1/t31.0-8/10504894_1489839624586827_5211827537433859606_o.jpg "admax home page mock up")
 
 
 
