@@ -13,4 +13,4 @@ permalink: /pfi_basketballer/
 
 This project was designed for people who were looking for helpful tips on how to improve their basketball skills. The major point of this site was to drive traffic using keyword dealing or related to basketball skills and development.
 
-#####Link: [http://basketballersd/com](http://basketballersd.com/)
+#####Link: [http://basketballersd.com](http://basketballersd.com/)
