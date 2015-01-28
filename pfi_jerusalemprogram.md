@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TUDU List web app
+title: Jerusalem Church Program
 permalink: /pfi_jerusalemprogram/
 ---
 
