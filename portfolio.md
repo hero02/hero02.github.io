@@ -1,7 +1,7 @@
 ---
 layout: page
-catagory: web portfolio
 title: Portfolio
+permalink: /portfolio/
 ---
 
 ##one
