@@ -1,3 +1,8 @@
+---
+layout:post
+title: Sketch for Web Designers
+---
+
 ###Filtering Information
 ![alt text](https://cms-assets.tutsplus.com/uploads/users/507/posts/22873/image/synthesis-sketchnoting.jpg "filtering")
 
