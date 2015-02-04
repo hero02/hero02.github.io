@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Wanna learn how easy designing a web site is? Part 1
 ---
 
