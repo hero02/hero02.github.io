@@ -28,15 +28,4 @@ HTML or HyperText Markup Language is the standard markup language used to create
 
 ####What is PHP####
 
-* A computer or laptop. 
-* Html code editor
-* Free time
-
-A good computer or laptop is important when it comes to being a <b>web design professional</b>. You want to make sure that you separate your personal computer from your work computer. What somethings goes wrong on you lose all your files. Now you got nothing to work with. So its best to buy something affordable that you can use for your web designing.
-
-Once you have the computer or laptop you’ll want to download a web designing software or <b>html editor</b>. Html is the base in which web designing starts. You will need this in order to learn and practice the code needed to start the foundation of your web sites. Some examples are Adobe Dreamweaver, Sublime, Coffecup, and more. If any of these are not in your price range its fine. There’s a code editor on your computer or laptop already and its Notepad. You can use this program temporarily until you can get one of the better programs.
-
-Next you want to set some times aside for you to practice coding. Learning the basics of coding is really what going to make you a great web professional so you must <b>practice practice practice</b>. Don’t just do but do and understand until it is embedded into your mind.
-
->Practice does not make perfect. Only perfect practice makes perfect.
-><i>Vince Lombardi</i>
+PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages. So this is the language you use when you want to connect information to your web database. PHP always starts and ends its bracket with a question mark (<?php><?>)
