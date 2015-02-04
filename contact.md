@@ -8,6 +8,10 @@ permalink: /contact me/
   border:none;
   color:red;
  }
+ 
+ input{
+  width:200px;
+  }
 
 </style>
 
