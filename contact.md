@@ -4,7 +4,7 @@ title: Contact me
 permalink: /contact me/
 ---
 
-<form action="http://formspree.io/webdezinesco@gmail.com">
+<form method= "post" action="http://formspree.io/webdezinesco@gmail.com">
  <label>Email</label>
  
   <input type="email" name="_replyto">
