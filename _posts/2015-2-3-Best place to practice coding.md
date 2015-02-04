@@ -22,9 +22,9 @@ There a various websites out there that provide and interactive way of learning 
 
 ####Sites to free roam pratice####
 
-Coepen ([Visit Site](http://teamtreehouse.com/))
-JsFiddle ([http://jsfiddle.net/))
-Css deck ([Visit Site](http://cssdeck.com/))
+* Coepen ([Visit Site](http://teamtreehouse.com/))
+* JsFiddle ([Visit Site](http://jsfiddle.net/))
+* Css deck ([Visit Site](http://cssdeck.com/))
 
 
 
