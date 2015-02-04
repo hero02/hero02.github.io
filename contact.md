@@ -16,7 +16,7 @@ permalink: /contact me/
   textarea {
    width:200px;}
    
-   label:nth-child(2){
+   label{
     margin-top:15px;
    }
 
