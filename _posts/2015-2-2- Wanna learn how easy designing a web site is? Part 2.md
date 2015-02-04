@@ -19,7 +19,7 @@ Here are some web languages
 HTML or HyperText Markup Language is the standard markup language used to create web pages. It is written in the form of HTML elements consisting of tags enclosed in angle brackets 
 
 
-![alt text](http://www.racineweb.com/images/code_snip.gif "HTML CODE EXAMPLE")
+![alt text](http://www.racineweb.com/images/code_snip.gif =250x "HTML CODE EXAMPLE")
 
 ####What is PHP####
 
