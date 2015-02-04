@@ -9,8 +9,8 @@ permalink: /contact me/
   color:red;
  }
  
- input{
-  width:200px;
+ input[type=email]{
+  width:200px !important;
   }
 
 </style>
