@@ -3,6 +3,11 @@ layout:post
 title: Wanna learn how easy designing a web site is? Part 2
 ---
 
+<style>
+  img{
+    width:200px;}
+</style>
+
 
 ##Finding out the web language and how to use it.##
 
