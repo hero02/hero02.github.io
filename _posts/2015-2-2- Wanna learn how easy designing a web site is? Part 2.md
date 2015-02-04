@@ -6,7 +6,8 @@ title: Wanna learn how easy designing a web site is? Part 2
 
 ##Finding out the web language and how to use it.##
 
-Here are some web languages:
+Here are some web languages
+
 * HTML
 * PHP
 * CSS
@@ -15,14 +16,12 @@ Here are some web languages:
 
 ####What is HTML ####
 
-HTML or HyperText Markup Language is the standard markup language used to create web pages. It is written in the form of HTML elements consisting of tags enclosed in angle brackets (like //<html> ).
+HTML or HyperText Markup Language is the standard markup language used to create web pages. It is written in the form of HTML elements consisting of tags enclosed in angle brackets 
 
-#####HTML CODE EXAMPLES#####
-* <body></body>
-* <p>paragraph tag</p>
-* <ul>unordered list items</ul>
 
-####First thing first…...the tools####
+![alt text](http://www.racineweb.com/images/code_snip.gif "HTML CODE EXAMPLE")
+
+####What is PHP####
 
 * A computer or laptop. 
 * Html code editor
