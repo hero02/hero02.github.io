@@ -1,9 +1,9 @@
 ---
 layout:post
-title: Design a website with without know code!
+title: Design website with little code know how!
 ---
 
-
+![alt text](http://wordpress123.eu/wp-content/uploads/2014/03/nexus-wordpress-theme-screenshot-400x400.jpg "wordpress template")![alt text](http://www.themes2wp.com/wp-content/uploads/2011/07/ed51de4f4f87978cbb0da23cd45ab5cc.jpg "wordpress template")
 
 ##Wordpress oh how we love thee##
 
