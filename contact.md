@@ -27,6 +27,7 @@ permalink: /contact me/
   <br />
   <input type="email" name="_replyto">
   <br />
+  <br />
   <label>Message</label>
   <br />
   <textarea name="body"></textarea>
