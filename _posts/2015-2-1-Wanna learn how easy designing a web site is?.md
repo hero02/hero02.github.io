@@ -3,10 +3,10 @@ layout:post
 title: Wanna learn how easy designing a web site is?
 ---
 
-#Wanna learn how easy designing a web site is?#
-Here’s a quick run through on how to become a successful web design professional.
 
-learning the basics part 1
+##Here’s a quick run through on how to become a successful web design professional.##
+
+###learning the basics part 1###
 
 We all been on the internet and maybe googled something here or there. Heck I bet you got a facebook page yourself. So what’s got you so mesmerized? Well it’s the beautiful design and usability of these websites of course. I’m sure you never thought about it but there are people who design these sites for you and I to uses to post our feelings, watches cat videos, and pay bills. I am about to set you on the track so you can join this community of wizards...I mean web designers.
 
