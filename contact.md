@@ -12,6 +12,13 @@ permalink: /contact me/
  input[type=email]{
   width:200px !important;
   }
+  
+  textarea {
+   width:200px;}
+   
+   label:nth-child(2){
+    margin-top:15px;
+   }
 
 </style>
 
