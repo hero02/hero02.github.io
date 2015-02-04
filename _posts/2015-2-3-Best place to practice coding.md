@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Best way to learn code!
 ---
 
