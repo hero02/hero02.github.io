@@ -6,7 +6,7 @@ permalink: /contact me/
 <style>
  #subbtn{
   border:none;
-  color:red;
+  padding:10px;
  }
  
  input[type=email]{
