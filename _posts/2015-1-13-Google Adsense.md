@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Google Adsense
 ---
 
