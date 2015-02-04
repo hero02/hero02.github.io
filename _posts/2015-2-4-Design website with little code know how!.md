@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Design website with little code know how!
 ---
 
