@@ -28,4 +28,4 @@ Codepen also provides you with a library of options when it comes to the type of
 
 Codepen is home to hundreds of coders like yourself who like to share their work. So with codepen you can Fork(make a copy) of their work o your profile so you can play around with it.
 
-If you are convinced that codepen is the place for you to test some ideas to go visit it now. [Codepen.io](codepen.io)
+If you are convinced that codepen is the place for you to test some ideas to go visit it now. [Codepen.io](http://codepen.io)
