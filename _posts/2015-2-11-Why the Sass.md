@@ -12,11 +12,15 @@ As you dive in more into the world of web design you will start to realize that 
 
 <b>Example 1</b>
 
+***
+
 $primary-color:  #333
 
 body
 
   font: open sans;
   color: $primary-color;
+  
+***
   
   As you can see here this allows you to change the variable color with out going through the whole stylesheet and make individual changes. Anything with the variable $primary-color will automatically change to what ever was set in the variable.
