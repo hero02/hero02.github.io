@@ -15,6 +15,7 @@ As you dive in more into the world of web design you will start to realize that 
 $primary-color:  #333
 
 body
+
   font: open sans;
   color: $primary-color;
   
