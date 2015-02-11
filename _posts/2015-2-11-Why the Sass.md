@@ -36,6 +36,6 @@ body
 
 Sass will let you nest your CSS selectors in a way that follows the same visual hierarchy of your HTML. This saves you a lot of time when it comes to writing css.
 
-![alt text](https://drive.google.com/file/d/0B2PyqmJHfDHva3R1OFg3eDFfRFE/view?usp=sharing "nesting")
+![alt text](https://lh3.googleusercontent.com/cbhNVVNOsLGR2QwfAU9FRiKoiue1L6CisQK0-kSpEVA=w314-h207-p-no "nesting")
   
   
