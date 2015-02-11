@@ -37,5 +37,11 @@ body
 Sass will let you nest your CSS selectors in a way that follows the same visual hierarchy of your HTML. This saves you a lot of time when it comes to writing css.
 
 ![alt text](https://lh3.googleusercontent.com/cbhNVVNOsLGR2QwfAU9FRiKoiue1L6CisQK0-kSpEVA=w314-h207-p-no "nesting")
+
+As you can see no longer will you have to rewrite each selector over again but only once and anything else that applies to it you will nest it below it.
+
+So to save yourself of the frustration of dealing with changes on large stylesheets SASS is the best thing to learn and add to your coding skills.
+
+learn more about Sass [Here](http://sass-lang.com/guide)
   
   
