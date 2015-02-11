@@ -7,7 +7,7 @@ title: Feeling Good About Bootstrap
 
 ###Why are designers in love with the bootstrap?
 
-What is boostrap? Bootstrap is a free collection of tools for creating websites and web applications. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. This framework is a web designer's dream. The feeling is like Home Simpson when he see donuts. Whats got us salavating this much? Well Im about to tell you.
+<p>What is boostrap? Bootstrap is a free collection of tools for creating websites and web applications. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. This framework is a web designer's dream. The feeling is like Home Simpson when he see donuts. Whats got us salavating this much? Well Im about to tell you.</p>
 
 <b>1. It saves time</b>
 
