@@ -10,8 +10,8 @@ title: Herodney Design's Services
 | Web Design        | Standard          |
 | ------------- |:-------------:| 
 | 5 Page site      | $500 |
-
-| Web Design        | Standard          |
+| Web Design        | Premium          |
 | ------------- |:-------------:| 
-| col 2 is      | centered      |   
+| +ecommerce      | $1500      | 
+| per addtional page      | $500      |  
 
