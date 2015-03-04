@@ -11,6 +11,7 @@ title: Herodney Design's Services
 | ------------- |:-------------:| 
 | 5 Page site      | $500 |
 
+| Web Design        | Standard          |
 | ------------- |:-------------:| 
 | col 2 is      | centered      |   
-| zebra stripes | are neat      |
+
