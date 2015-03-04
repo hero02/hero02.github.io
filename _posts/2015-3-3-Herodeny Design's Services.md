@@ -14,7 +14,7 @@ title: Herodney Design's Services
 | Web Design        | Premium          |
 | ------------- |:-------------:| 
 | +ecommerce      | $1500      | 
-| per addtional page      | $500      |  
+| per addtional page | $500      |  
 
 
 | Logo Design       | Standard          |
