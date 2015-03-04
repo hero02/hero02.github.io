@@ -13,15 +13,15 @@ Here are a couple of advantages to using this tool.
 
 ***Organic Research***
 
-+See competitors’ best keywords
++ See competitors’ best keywords
 
--Discover new organic competitors
+- Discover new organic competitors
 
-*Observe position changes of domains
+* Observe position changes of domains
 
 ***Advertise***
 
-*Uncover Your Competitors’ Ad Strategies and Budget
+* Uncover Your Competitors’ Ad Strategies and Budget
 
 *Analyze Your Online Rivals' Ad Copies and Keywords
 
