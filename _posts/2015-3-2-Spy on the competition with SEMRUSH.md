@@ -23,23 +23,23 @@ Here are a couple of advantages to using this tool.
 
 * Uncover Your Competitors’ Ad Strategies and Budget
 
-*Analyze Your Online Rivals' Ad Copies and Keywords
+* Analyze Your Online Rivals' Ad Copies and Keywords
 
-*Discover New Competitors in AdWords and Bing Ads
+* Discover New Competitors in AdWords and Bing Ads
 
-*Localize Your Ad Campaigns
+* Localize Your Ad Campaigns
 
 ***Backlinks***
 
-*Conduct a deep link analysis
+* Conduct a deep link analysis
 
-*Understand referring domains' authority
+* Understand referring domains' authority
 
-*Check backlinks' types
+* Check backlinks' types
 
-*Spot your links' geolocation
+* Spot your links' geolocation
 
-for more about SEMRUSH check this link [SEMRUSH](http://www.semrush.com/)
+Naturally anyone looking to be ahead of the competition will click  this link [SEMRUSH](http://www.semrush.com/)
 
 
 
