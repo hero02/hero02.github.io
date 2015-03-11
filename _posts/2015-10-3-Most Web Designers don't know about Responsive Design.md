@@ -21,7 +21,7 @@ If your not to sure how you can get started with responsive design you can alway
 
 Responsive web design sites are fluid, meaning the content moves freely across all screen resolutions and all devices. Both the grids and the images are fluid. Just as a liquid spreads out or draws in to allow its content to fill an allotted space and retain its appearance, responsive web design’s fluidity achieves the same result with website content on a device screen.
 
- #### Great for SEO
+ ####Great for SEO####
 
 Managing one site and one SEO campaign is far easier than managing two sites and two SEO campaigns. This is a key advantage a responsive website has over a separate mobile site. That being said, there are benefits to having a mobile-specific SEO strategy, such as optimizing for keywords that are more likely to be searched when someone is on their smartphone. Responsive web design enhances SEO efforts by having all your visitors directed to a single site no matter what they prefer to use as a device.
 
