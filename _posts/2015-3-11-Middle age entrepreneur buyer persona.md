@@ -26,7 +26,7 @@ We can help expand your business by providing a website that represents what you
 
 She exspects everything to be perfect. So need to be able to manage things very easily for herself and clients.
 
-##MARKETING MESSAGING## 
+##MARKETING MESSAGING
 
 Increase your clientele by increasing your online presence.
 
