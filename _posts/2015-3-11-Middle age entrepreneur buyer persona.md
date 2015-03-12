@@ -2,6 +2,8 @@
 layout: post
 title: Buyer persona middle age female entrepreneur
 ---
+
+
 ##BACKGROUND/Demographic##
 
 Haitian american female ages 30-35. Signle not married and no children.
