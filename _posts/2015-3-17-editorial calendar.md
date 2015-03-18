@@ -2,15 +2,12 @@
 layout: post
 title: Editorial Calendar
 ---
-<style>
- table, th, td{
- border:1px solid grey;}
-</style>
 
-<table style="border:1px solid red;">
-<th>hi</th>
+
+<table style="border:1px solid grey;">
+<th style="border:1px solid grey;padding:10px;">hi</th>
 <tr>
-<td>bum</td>
+<td style="border:1px solid grey;padding:10px">bum</td>
 </tr>
 
 </table>
