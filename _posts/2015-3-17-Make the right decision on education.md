@@ -1,11 +1,11 @@
 ---
 layout:post
-title: Community college sucks
+title: Make the right decision on education
 ---
 
 ![alt text](http://studymagazine.com/wp-content/uploads/2010/11/College-vs-University.jpg)
 
-##My thoughts on choosing were to study
+##What you should consider
 
 I've had the opportunity to attend 3 educational institutions after graduating highschool. I have no idea what I wanted to study so I didnt know what to look for as a college so didn't really think about what colleges or university to attend. But ow that I have gone threw this years of learning I can see how important it is to know what you want to learn and where to learn it.
 
