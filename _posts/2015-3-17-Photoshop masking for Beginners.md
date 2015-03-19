@@ -23,7 +23,7 @@ photoshop/
 
 2.[quick-mask-tool](http://www.tricky-photoshop.com/quick-mask-tool/)
 
-3. [Quick mask tool by adobe](http://www.adobepress.com/articles/article.asp?p=1950633&seqNum=5)
+3.[Quick mask tool by adobe](http://www.adobepress.com/articles/article.asp?p=1950633&seqNum=5)
 
 ###Video Tutorials
 [](https://www.youtube.com/watch?v=Q_IukgNM1fI)
