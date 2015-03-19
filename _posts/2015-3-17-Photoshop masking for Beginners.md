@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Photoshop masking for beginners
 ---
 
