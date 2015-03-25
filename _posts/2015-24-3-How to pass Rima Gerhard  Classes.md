@@ -2,7 +2,7 @@
 layout: post
 title: How to pass Rima Gerhard  Classes
 ---
-<p style="text-align:center;">![alt text](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/0a1/021/3b690ea.jpg " Rima Gerhard")</p>
+![alt text](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/0a1/021/3b690ea.jpg " Rima Gerhard")
 If your are a student of Miami International University of the downtown miami location then you will need to know on how to pass Prof. Rima Gerhard. She is a wonderful person who is liked among all her students and I have yet to hear aything bad about her. So you know she has a good student to teacher relationship. If you are studyig web design and development then you will have noticed that she is the one teacher that teaches mostly all your web related courses. Well as a student of her's i am here to give you some simple how to steps on what it takes to pass any of her classes.
 
 ###Show up to class
