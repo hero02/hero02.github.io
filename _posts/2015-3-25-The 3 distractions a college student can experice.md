@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 3 distractions a college student can experice
+title: The 3 distractions a college student can experience
 ---
 
 Today we take a look at three distractions that most college students experince. Many new college students are now on their own and now have to deal with these distractions head on. This is what college deal with everyday and have to find a way to deal with it and grow.
