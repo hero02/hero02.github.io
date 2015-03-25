@@ -9,4 +9,9 @@ If your are a student of Miami International University of the downtown miami lo
 This is so simple I should not even tell you this. It is everyschool policy for their students to showup for class. Many students like to take advantage of number of times they can come to class and usually miss out on anything good they could of learned. Prof. Gerhard is an opened mminded woman and as long as you have a excuse she will keep you up to date on what you missed and help you understand anything you missed.
 
 ###Complete assignments
-A
+Many students like to procrastinate and not complete assignsments on time. If you are a studets of Rima then you may have a chance to finish up an asasignment at a later date but if must be a good excuse. Prof. Gerhard is usually opened minded and knows when a student is working hard in her class. 
+
+###Communicate
+Having communication with the prof. and classmates can really make a difference during your time in Prof. Gerhard class. By getting to know your classmates you open up the chance of recieving help from the students when you have trouble with an assignment. If you and your classmates all can't understand an assignment then there is a great chance that Prof. Gerhard will work with you. It would be a whole different story if it were only one person. Thats why its is important to communicate with classmates.
+
+The big secret you guys is to have Prof. Rima Gerhard as your friend and things will be alot easier. She is really sweet and kind and does not wish to see anybody fail her class. All you have to do is work with her. Hope this help you get a better understanding on who Prof. Gerhard and how to pass her classes.
