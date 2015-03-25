@@ -5,6 +5,8 @@ title: Rising sea levels threaten South Florida
 
 BY Michael J. Mishak, Associated Press   June 7, 2014 at 4:24 PM EDT
 
+![alt text](http://www.pbs.org/newshour/wp-content/uploads/2014/06/495454545-1024x631.jpg)
+
 MIAMI BEACH, Fla. — On a recent afternoon, Scott McKenzie watched torrential rains and a murky tide swallow the street outside his dog-grooming salon. Within minutes, much of this stretch of chic South Beach was flooded ankle-deep in a fetid mix of rain and sea.
 
 “Welcome to the new Venice,” McKenzie joked as salt water surged from the sewers.
