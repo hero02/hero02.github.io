@@ -29,6 +29,9 @@ Managing one site and one SEO campaign is far easier than managing two sites and
 
 responsive web design is about providing the optimal user experience irrespective of whether they use a desktop computer, a smartphone, a tablet or a smart-TV. Responsive web design accommodates the busy professional during the day and the wide-awake college student needing access to your site anytime. No scrolling or resizing is needed for any visitor to access your website from their favorite device.
 
+###Mobile surpasses Desktop
+This is another reason why you want to really spend time understanding responsive design. Now a days users are on the mobile  devices more than they are on their desktop computer. So you would want your website of haveing every advantage no matter what device it is on. Studies have shown that iphone is the device most used to sharing according to an article at (Sharethis.com)[http://www.sharethis.com/learn/knowledge-center/research-2/mobile-vs-desktop-a-cross-device-user-study/#sthash.tQPLgxGJ.dpbs]. So That in to consideration on your target audience and what decives they are using to you can design a website that is reponsive to that device.
+
 direct source: [Top 5 Advantages of Responsive Web Page Design](http://codeboxr.com/blogs/top-5-advantages-of-responsive-web-page-design)
 
 
