@@ -34,3 +34,5 @@ permalink: /contact me/
   <br />
   <input id="subbtn" type="submit" value="Send">
 </form>
+
+<a href="http://www.quora.com/Herodney-Emile">Follow me on Quora</a>
