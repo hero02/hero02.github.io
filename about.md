@@ -18,8 +18,12 @@ I am a student at the AIU Art Institute currently finishing my BA. I am a web de
 
 * Started drawing at age 10, graphic designing at 17 and web design at 24.
 
+###What makes me different from other web/graphic designers
+
+I love to really get into my work. I don't like just setting people up with a template and just building on it. I want to make sure that what i make for you really speaks of you. I guess you can say that's one thing bad about me, I tend to want everything perfect for that person so I spend alot longer designing.
+
 ### Contact me
 
 Email : [webdezinesco@gmai.com](mailto:webdezinesco@gmail.com)
 
-Follow:http://Facebook.com/herodneydesigns
+Follow:[http://Facebook.com/herodneydesigns]
