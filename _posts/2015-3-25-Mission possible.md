@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mission: Possible, to to make ahobby a career
+title: Mission Possible, to to make a hobby a career
 ---
 
 Mission: Impossible Rogue Nation in the next movie in the impossible franchise. It stars Tom Cruise who play Agen Ethan Hunt. Along his team the face impossible odds of completing a mission. Just like you if you want to turn a hobby into a career. People love to do what they love and hate the structure of a standard job. Many have accomplished this task and we will show how possible it is to make a hobby a career. 
