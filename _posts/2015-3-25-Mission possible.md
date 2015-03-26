@@ -17,4 +17,4 @@ Hobby related how-to topics, historical perspectives, and compelling stories, ar
 
 For example, if you are a wine enthusiast, you might import hand-blown wine glasses from a different country, or invent a unique wine refrigeration device, or develop a line of fun wine-themed T-shirts. “Hobbyists tend to be very enthusiastic, passionate and willing to spend money on items related to their hobby,” Collamer says. “Just think of what baseball enthusiasts are willing to pay for World Series tickets.”
 
-As you ca see there
+As you can see there are many ways in which one can turn a hobby into a career all it take is hard work ad dedication. So before you go into that generic interview give your hobby and m ake money doing what you love. Mission Accomplished. 
